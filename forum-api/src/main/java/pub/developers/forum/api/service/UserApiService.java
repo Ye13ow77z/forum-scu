@@ -10,8 +10,8 @@ import pub.developers.forum.api.response.user.UserOptLogPageResponse;
 import pub.developers.forum.api.response.user.UserPageResponse;
 import org.springframework.web.multipart.MultipartFile;
 /**
- * @author Qiangqiang.Bian
- * @create 20/7/30
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface UserApiService {

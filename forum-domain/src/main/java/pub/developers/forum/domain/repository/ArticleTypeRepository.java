@@ -9,8 +9,8 @@ import pub.developers.forum.domain.entity.ArticleType;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface ArticleTypeRepository {

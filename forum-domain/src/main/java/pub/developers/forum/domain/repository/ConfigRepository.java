@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/26
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface ConfigRepository {

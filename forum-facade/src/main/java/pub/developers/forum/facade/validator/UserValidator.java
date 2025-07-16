@@ -5,8 +5,8 @@ import pub.developers.forum.api.request.user.*;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
- * @author Qiangqiang.Bian
- * @create 20/7/30
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public class UserValidator {

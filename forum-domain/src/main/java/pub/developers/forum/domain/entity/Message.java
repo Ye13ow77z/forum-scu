@@ -11,8 +11,8 @@ import pub.developers.forum.common.enums.MessageTypeEn;
 import pub.developers.forum.domain.entity.value.IdValue;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
+ * @author 13
+ * @create 2025.7
  * @desc 消息
  **/
 @Data

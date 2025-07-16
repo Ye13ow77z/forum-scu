@@ -6,8 +6,8 @@ import pub.developers.forum.infrastructure.dal.dataobject.SearchDO;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/2
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface SearchDAO {

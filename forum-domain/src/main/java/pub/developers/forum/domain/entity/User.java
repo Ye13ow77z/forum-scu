@@ -12,8 +12,8 @@ import pub.developers.forum.common.support.AvatarUtil;
 import java.util.Date;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 @Data
