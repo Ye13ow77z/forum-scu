@@ -7,8 +7,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/29
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 @Configuration

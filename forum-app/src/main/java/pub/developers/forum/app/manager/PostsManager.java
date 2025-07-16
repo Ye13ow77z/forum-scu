@@ -14,8 +14,8 @@ import pub.developers.forum.domain.repository.UserFoodRepository;
 import javax.annotation.Resource;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/25
+ * @author 13
+ *
  * @desc
  **/
 @Component

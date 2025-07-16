@@ -6,8 +6,8 @@ import pub.developers.forum.common.enums.OptLogTypeEn;
 import pub.developers.forum.domain.entity.OptLog;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/12/9
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public class OptLogTransfer {

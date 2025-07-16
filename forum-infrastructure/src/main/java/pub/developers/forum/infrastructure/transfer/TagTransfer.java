@@ -12,8 +12,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public class TagTransfer {

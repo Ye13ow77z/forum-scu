@@ -4,8 +4,8 @@ import pub.developers.forum.api.model.PageRequestModel;
 import pub.developers.forum.common.support.CheckUtil;
 
 /**
- * @author Qiangqiang.Bian
- * @create 20/9/9
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public class PageRequestModelValidator {

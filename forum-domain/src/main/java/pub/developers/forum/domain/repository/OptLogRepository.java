@@ -5,8 +5,8 @@ import pub.developers.forum.common.model.PageResult;
 import pub.developers.forum.domain.entity.OptLog;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/20
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface OptLogRepository {

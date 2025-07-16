@@ -7,8 +7,8 @@ import pub.developers.forum.api.request.message.MessagePageRequest;
 import pub.developers.forum.api.response.message.MessagePageResponse;
 
 /**
- * @author Qiangqiang.Bian
- * @create 20/7/30
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface MessageApiService {

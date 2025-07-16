@@ -28,7 +28,7 @@ module.exports = {
     // in the browser.
     showEslintErrorsInOverlay: false,
 
-    /**
+    @author 13
      * Source Maps
      */
 
@@ -52,7 +52,7 @@ module.exports = {
     assetsSubDirectory: 'vue-dist',
     assetsPublicPath: '/',
 
-    /**
+    @author 13
      * Source Maps
      */
 

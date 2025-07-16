@@ -1,8 +1,8 @@
 package pub.developers.forum.common.constant;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/19
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface Constant {

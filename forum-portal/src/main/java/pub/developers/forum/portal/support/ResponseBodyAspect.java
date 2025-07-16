@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import pub.developers.forum.common.support.RequestContext;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/25
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 @Component
