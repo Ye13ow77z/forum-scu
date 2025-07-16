@@ -4,8 +4,8 @@ import pub.developers.forum.api.model.ResultModel;
 import pub.developers.forum.api.request.github.GithubOauthLoginRequest;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2021/5/15
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface GithubApiService {

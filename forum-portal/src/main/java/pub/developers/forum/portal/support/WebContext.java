@@ -3,8 +3,8 @@ package pub.developers.forum.portal.support;
 import pub.developers.forum.api.response.user.UserInfoResponse;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/29
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public class WebContext {

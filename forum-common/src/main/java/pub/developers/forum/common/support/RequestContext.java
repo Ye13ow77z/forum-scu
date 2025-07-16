@@ -3,8 +3,8 @@ package pub.developers.forum.common.support;
 import org.springframework.util.ObjectUtils;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/30
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public class RequestContext {

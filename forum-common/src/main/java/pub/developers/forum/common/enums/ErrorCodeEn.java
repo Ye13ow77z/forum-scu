@@ -1,8 +1,8 @@
 package pub.developers.forum.common.enums;
 
 /**
- * @author Qiangqiang.Bian
- * @create 20/7/23
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public enum ErrorCodeEn {

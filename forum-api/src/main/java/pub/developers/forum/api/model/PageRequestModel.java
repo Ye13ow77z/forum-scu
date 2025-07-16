@@ -7,8 +7,8 @@ import lombok.Setter;
 import java.io.Serializable;
 
 /**
- * @author Qiangqiang.Bian
- * @create 20/7/23
+ * @author 13
+ *
  * @desc
  **/
 @Getter

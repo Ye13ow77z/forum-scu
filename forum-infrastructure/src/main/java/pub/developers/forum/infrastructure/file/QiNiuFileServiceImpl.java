@@ -16,8 +16,8 @@ import pub.developers.forum.common.support.LogUtil;
 import pub.developers.forum.domain.service.FileService;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/11/23
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 @Slf4j

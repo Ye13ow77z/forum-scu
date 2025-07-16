@@ -5,8 +5,8 @@ import pub.developers.forum.domain.entity.Article;
 import pub.developers.forum.domain.entity.value.PostsPageQueryValue;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
+ * @author 13
+ * @create 2025.7
  * @desc
  **/
 public interface ArticleRepository {

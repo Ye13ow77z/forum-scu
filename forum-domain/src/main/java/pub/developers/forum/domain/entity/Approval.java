@@ -3,8 +3,8 @@ package pub.developers.forum.domain.entity;
 import lombok.*;
 
 /**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
+ * @author 13
+ * @create 2025.7
  * @desc 文章点赞/问答关注
  **/
 @Data
